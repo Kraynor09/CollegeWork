@@ -1,0 +1,338 @@
+body {
+    font-family: 'Poppins',Arial,sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+    background-image: url("Logo-front-cover-2-1024x1024-600x600.png");
+    background-repeat: no-repeat;
+    background-color: #2f2f2f;
+    background-size: contain;
+    margin-bottom: 200px;
+    background-position: center;
+
+  }
+  .bg-2 { 
+    border: 1px solid  #455a64;
+    background-color: #455a64;
+    text-align: center;
+    margin-bottom: 300px;
+    width: 40%;
+    margin-left: 2%;
+    align-content: center;
+  }
+  .bg-23 { 
+ 
+    text-align: center;
+    margin-top: 90px;
+  
+  }
+
+.bg-45{
+
+}
+
+
+#button{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+
+.bg-13 {
+  width: 100%;
+  background-color: ;
+}
+
+
+
+
+
+  .bg-99 { 
+    border: 1px solid  #455a64;
+    background-color: #455a64;
+    text-align: center;
+    margin-top: -30px;
+    
+  }
+
+
+
+  .bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+    margin-top: 400px;
+  }
+  .bg-4 { 
+    background-color: white; /* Black Gray */
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
+
+.bg-9{
+    background-color: #2f2f2f;
+}
+
+
+.bg-8{
+    background-color: #455a64;
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: -470px; 
+    font-family: Arial, sans-serif ;
+    position: inherit;
+  
+}
+
+
+.bg-13 {
+  text-align: center;
+  color:black;
+  margin-top: -80px;
+  font-style: bold;
+}
+
+
+#meet{
+    margin-top: -40px;
+  
+}
+
+
+hr{
+  width: 80px;
+  margin-left: 10px;
+  background-color: lightgray;
+  text-align: center;
+  
+}
+
+.text-conainer{
+  margin-left: 60px;
+}
+
+
+
+.btn {
+  color: #455a64;
+}
+
+.bg-90 {
+  
+background-image: url(images/Far-View.jpg);
+background-attachment: fixed;
+
+}
+#line{
+  width: 900px;
+  margin-top: 20px;
+}
+.bg-90 img{
+  width: 70px;
+  
+  margin-left:500px;
+}
+
+
+
+
+#logo {
+  width: 70px;
+  margin-left: 400px;
+  text-align: center;
+}
+
+
+#aboutus{
+  color: #455a64;
+  font-family:  Arial, sans-serif ;
+  font-size: bold;
+  font-family: 'Poppins',Arial,sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  transition: 0.23335s;
+}
+
+
+#aboutusline{
+  display: block;
+   margin-inline-start: auto;
+  margin-inline-end: auto;
+  padding-top: 2px;
+ background-color: #2f2f2f;
+  
+}
+.bg-90{
+  
+  float: right;
+}
+.bg-99{
+  
+}
+
+.bg-50 img{
+  
+  height: 90;
+  width: 100px, ;
+  float: right;
+  margin-top: -320px;
+}
+
+.bg-8 img{
+  width: 70%;
+  size: 9px;
+  float: right;
+  margin-top: 20px;
+  height: auto;
+  margin-top: -408px;
+}
+ #img1 {
+  width: 200px;
+  border-radius: 50%;
+}
+
+
+
+
+.bg-23{
+  
+}
+
+
+.body {
+    background-color: grey;
+    color: white;
+    font-family: 'Poppins',sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.nav {
+    overflow: hidden;
+    text-align: center;
+    height: 590px;
+   
+}
+
+.hrstyle {
+    width: 1100px;
+}
+
+}
+  
+.nav a {
+    display: inline-block;
+    color: white;
+    font-size: larger;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+    position: relative;
+    top: 0;
+    vertical-align: middle;
+}
+
+.nav a:hover {
+    color: #455a64;
+}
+
+header {
+    background-color: transparent;
+    color: white;
+}
+
+.curvesImg{
+    transform: rotate(180deg) translateZ(0);
+}
+
+
+#logo3{
+  margin-top: -59px;
+}
+
+
+.footer-text{
+
+}
+
+
+#fotterline {
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    padding-top: 1px;
+    width: 900px;
+    margin-bottom : 102px;
+}
+
+.footer-text-inner{
+    color: black;
+
+}
+.name{
+    margin-top: -90px;
+    color: black;
+}
+#openingtext{
+    margin-left: -50px;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+
+
+
+.image-container1{
+  margin-left: 100px;
+}
+
+#images{
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 500px) {
+  .iamges {
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  .bg-2 {
+    width: 100%;
+  }
+}
